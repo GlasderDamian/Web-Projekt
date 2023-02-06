@@ -1,9 +1,23 @@
-.navbar{
-    color:rgb(167, 167, 167);
+body{
+    
+}
+
+.navbar {
+    background: rgb(14,13,24);
+background: linear-gradient(0deg, rgba(14,13,24,1) 0%, rgba(31,49,91,1) 63%);
+ 
+}
+#navbar-toggler-icon-bg{
+
+    background:burlywood;
+}
+
+h7{
+    color:white;
 }
 
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #363636 !important;
+    color: #e9d7d7 !important;
     background-color: rgb(109, 108, 108) !important;
 }
 .navbar-default .navbar-toggle {
@@ -14,4 +28,9 @@
 #carouselExampleCaptions {
  padding-left: 40px;
  padding-right: 40px;
+ 
+}
+
+.dropdown-menu{
+    dropdown-color:white;
 }
