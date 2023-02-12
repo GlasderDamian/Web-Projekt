@@ -2,3 +2,5 @@ https://examples.bootscore.me/bootstrap-offcanvas-navbar/
 https://examples.bootscore.me/bootstrap-offcanvas-navbar/
 https://getbootstrap.com/docs/5.3/components/offcanvas/#live-demo
 https://getbootstrap.com/docs/5.3/components/navbar/
+https://www.freecodecamp.org/news/html-page-width-height/
+https://cssgradient.io/
