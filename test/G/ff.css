@@ -1,11 +1,14 @@
 body{
-    
+    background: rgb(14,13,24);
+    background: linear-gradient(0deg, rgba(14,13,24,1) 0%, rgba(31,49,91,1) 63%);
+   height: 100%;
+  
 }
 
 .navbar {
-    background: rgb(14,13,24);
-background: linear-gradient(0deg, rgba(14,13,24,1) 0%, rgba(31,49,91,1) 63%);
- 
+  
+    background: rgb(0,39,143);
+    background: linear-gradient(90deg, rgba(0,39,143,1) 0%, rgba(9,9,121,1) 32%, rgba(0,163,196,1) 100%);
 }
 #navbar-toggler-icon-bg{
 
@@ -34,3 +37,10 @@ h7{
 .dropdown-menu{
     dropdown-color:white;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
