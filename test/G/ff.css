@@ -6,13 +6,13 @@ body{
 }
 
 .navbar {
-    padding-top:30px;
-    background: rgb(0,39,143);
-    background: linear-gradient(90deg, rgba(0,39,143,1) 0%, rgba(9,9,121,1) 32%, rgba(0,163,196,1) 100%);
-}
-#navbar-toggler-icon-bg{
 
-    background:burlywood;
+    background: rgb(9,109,173);
+background: linear-gradient(90deg, rgba(9,109,173,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+bs-navbar-toggler-icon-bg{
+  color: red;
 }
 
 h7{
