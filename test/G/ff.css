@@ -44,3 +44,25 @@ h7{
     margin-right: auto;
     width: 50%;
   }
+
+  div.container {
+    text-align: center;
+  }
+  
+  ul.liste{
+    display: inline-block;
+    text-align: left;
+  }
+
+  li.over{
+    padding-top: 5px;
+    font-size: 14px;
+
+  }
+  a.blue{
+    color: rgb(118, 166, 206);
+    text-decoration: none;
+  }
+  div.cards{
+    text-align: center;
+  }
