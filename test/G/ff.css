@@ -2,6 +2,7 @@ body{
     background: rgb(14,13,24);
     background: linear-gradient(0deg, rgba(14,13,24,1) 0%, rgba(31,49,91,1) 63%);
    height: 100%;
+   overflow: hidden;
   
 }
 
@@ -57,6 +58,7 @@ h7{
   li.over{
     padding-top: 5px;
     font-size: 14px;
+    color: white;
 
   }
   a.blue{
@@ -66,3 +68,20 @@ h7{
   div.cards{
     text-align: center;
   }
+
+  div.sip{
+    margin-left: 2%;
+  }
+
+  div.sip-2{
+    margin-left: 2%;
+  }
+
+  div.sip-3{
+   
+  }
+  .card {         /*my additional class name -for card*/
+    margin-left: 18%;      
+    margin-right: 18%;
+    width: auto;
+}
