@@ -112,8 +112,12 @@ h7{
   }
   
   a.blue{
-    color: rgb(118, 166, 206);
+    color: rgb(107, 172, 224);
     text-decoration: none;
+  }
+
+  a.blue:hover {
+    color: rgb(180, 217, 248);
   }
 
 
